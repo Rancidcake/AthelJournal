@@ -1,5 +1,5 @@
 # AethelJournal
-                 <img width="667" alt="Screenshot 2025-06-09 at 12 59 05 PM" src="https://github.com/user-attachments/assets/42b5eb60-169e-4f95-9d58-cf2c7bace915" />
+<img width="667" alt="Screenshot 2025-06-09 at 12 59 05 PM" src="https://github.com/user-attachments/assets/42b5eb60-169e-4f95-9d58-cf2c7bace915" align=center />
 
 AethelJournal is a minimal, premium journaling application
 designed for clarity, introspection, and focus. Built with SwiftUI, it provides a modern interface for thoughtful note-taking and disciplined personal reflection.
