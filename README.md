@@ -41,8 +41,6 @@ AethelJournal merges timeless philosophy with contemporary design. Inspired by t
 </p>
 
 
-- **Access Tier with Monetization Potential**  
-  The free version allows up to three notes. To unlock unlimited note-taking, users are offered a one-time upgrade priced at ₹600.
 
 
 ## Technical Stack
