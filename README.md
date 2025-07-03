@@ -12,7 +12,9 @@ AethelJournal merges timeless philosophy with contemporary design. Inspired by t
 
 ## Features
 
-- **Calendar-Based Navigation**
+- **Calendar
+- ![IMG_0024](https://github.com/user-attachments/assets/9d2b6a9b-01c3-4268-a76d-e430be3e5e14)
+-Based Navigation**
 
 - Users can view and access journal entries via a full-year calendar, with the current month prominently displayed. Historical entries remain accessible through seamless scrolling or direct selection.
   <p align="center">
@@ -21,8 +23,7 @@ AethelJournal merges timeless philosophy with contemporary design. Inspired by t
 - **Focused Note-Taking Interface**
 -  A central, distraction-free editor designed for writing clarity. Typography and layout choices echo the precision of professional writing tools.
 <p align="center">
-  < img width="572" alt="Screenshot 2025-06-09 at 12 55 36 PM" src="https://github.com/user-attachments/assets/82b744ea-091a-46c8-9c0f-ffd5204640ce" />
-</p>
+ 
 
 - **Dynamic Quotations**  
   Displays a curated set of Stoic quotes upon each app launch, offering reflection prompts from Marcus Aurelius, Seneca, Epictetus, and others.
