@@ -16,8 +16,7 @@ AethelJournal merges timeless philosophy with contemporary design. Inspired by t
 
 - Users can view and access journal entries via a full-year calendar, with the current month prominently displayed. Historical entries remain accessible through seamless scrolling or direct selection.
   <p align="center">
-  <img width="178" alt="Screenshot 2025-06-09 at 12 56 46 PM" src="https://github.com/user-attachments/assets/3ec5e926-454b-43a8-a5c4-663bdd8478de" />
-  </p>
+  
 
 - **Focused Note-Taking Interface**
 -  A central, distraction-free editor designed for writing clarity. Typography and layout choices echo the precision of professional writing tools.
